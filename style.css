@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .name-color{
     color: orange;
@@ -7,6 +8,7 @@ body{
 section{
     display: flex;
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 section h1{
     font-size: 30px;
