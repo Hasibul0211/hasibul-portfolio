@@ -66,3 +66,6 @@ section h1{
     border-image-slice: 1;
     border-left: 6px solid;
 }
+footer p{
+    text-align: center;
+}
