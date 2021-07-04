@@ -42,3 +42,27 @@ section h1{
     background-position: right;
     padding-right: 10%;
 }
+.next-part{
+    width: 40%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    margin: 0 5%;
+    box-shadow: 8px 8px 40px gray;
+    
+}
+.experiences-part{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#dev-border1{
+    border-image: linear-gradient(purple,tomato );
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
+#dev-border2{
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
