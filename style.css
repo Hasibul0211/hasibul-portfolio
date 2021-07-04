@@ -5,7 +5,7 @@ body{
 .name-color{
     color: orange;
 }
-section{
+.section-part{
     display: flex;
     margin-bottom: 100px;
 }
@@ -19,8 +19,9 @@ section h1{
 }
 .half-part{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 6%;
     padding-top: 2%;
+    padding-right: 5%;
 }
 .half-part img{
     width: 80%;
