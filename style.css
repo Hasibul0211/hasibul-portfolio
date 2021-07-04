@@ -69,3 +69,7 @@ section h1{
 footer p{
     text-align: center;
 }
+.exp-name{
+    padding-left: 5%;
+    font-size: 40px;
+}
